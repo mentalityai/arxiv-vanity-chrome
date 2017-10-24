@@ -1,0 +1,1 @@
+document.querySelectorAll('.full-text ul')[0].insertAdjacentHTML("afterbegin","<li><a href=\"https://www.arxiv-vanity.com/convert/?query="+encodeURIComponent(window.location)+"\">Arxiv Vanity</a></li>");
